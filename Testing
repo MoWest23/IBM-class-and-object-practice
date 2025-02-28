@@ -1,4 +1,6 @@
 import matplotlip.pyplot as plt
 %matplotlibe inline i
 
-class Circle(object):
+class Circle(object):)
+
+    def_init_(self, radius=3, color ='blue')
